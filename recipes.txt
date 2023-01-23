@@ -1,0 +1,70 @@
+Backpack
+Tethers- 1 Compound
+Canister- 1 Resin
+Oxygen Filters- 1 Resin
+Small Generator- 1 Compound
+Small Printer- 1 Compound
+Worklight- 1 Copper
+Beacon- 1 Quartz
+Packager- 1 Graphite
+Dynamite- 1 Explosive Powder
+Fireworks- 1 Explosive Powder
+Power Cells- 1 Zinc
+Small Oxygen Tank- 1 Glass
+Portable Oxygenator- 1 NanoCarbon Alloy
+Small Wind Turbine- 1 Glass
+Small Solar Panel- 1 Copper
+Small Battery- 1 Lithium
+All Mods (Expect Drill Mods)- 1 Zinc
+Drill Mod 1- 1 Ceramic
+Drill Mod 2- 1 Tungsten Carbide
+Drill Mod 3- 1 Diamond
+Extenders- 1 Copper
+
+Small Printer
+Medium Platforms A- 1 Resin
+Medium Storage- 2 Resin
+Rover Seat- 2 Compound
+Medium Printer- 2 Compound
+Oxygenator- 1 Aluminum, 1 Ceramic
+Medium Generator- 1 Aluminum, 1 Tungsten
+Medium Solar Panel- 1 Copper, 1 Glass
+Medium Wind Turbine- 1 Glass, 1 Ceramic
+Medium Battery- 1 Lithium, 1 Zinc
+Radioisotope Thermoelectric Generator- 1 NanoCarbon Alloy, 1 Lithium
+Splitter- 1 Copper, 1 Graphite
+Medium Platform B- 2 Resin
+Medium Shredder- 2 Iron
+Tractor- 2 Aluminum
+Trailer- 1 Aluminum, 1 Compound
+Drill Strength 1- 1 Tungsten Carbide, 1 Ceramic
+Drill Strength 2- 1 Tungsten Carbide, 1 Titanium Alloy
+Drill Strength 3- 1 Diamond, 1 Titanium Alloy
+Solid Fuel Thruster- 1 Aluminum, 1 Ammonium
+Hydrazine Thruster- 1 Tungsten, 1 Titanium Alloy
+Winch- 1 Tungsten, 1 Rubber
+Shuttle Seat- 2 Aluminum
+
+Medium Printer
+Large Platform A- 2 Resin
+Large Platform B- 3 Resin
+Large Platform C- 3 Iron
+Research Chamber- 2 Compound, 1 Resin
+Smelting Furnace- 1 Compound, 2 Resin
+Soil Centrifuge- 2 Compound, 1 Aluminum
+Chemistry Lab- 1 Tungsten, 1 Glass, 1 Ceramic
+Atmospheric Condenser- 1 Iron, 1 Plastic, 1 Glass
+Trade Platform- 1 Iron, 1 Tungsten, 1 Compound
+Large Shredder- 1 Tungsten Carbide, 2 Iron
+Large Printer- 3 Compound
+
+Large Platform
+Extra Large Platform A- 4 Iron
+Extra Large Platform B- 2 Iron, 2 Resin
+Extra Large Storage- 2 Iron, 2 Steel
+Large Rover- 2 Aluminum Alloy, 2 Rubber
+Small Shuttle- 2 Aluminum
+Medium Shuttle- 2 Ceramic, 2 Aluminum Alloy
+Large Shuttle- 2 Titanium Alloy, 2 Ceramic
+Shelter- 2 Silicone, 2 Plastic
+Solar Array- 1 Copper, 1 Graphene, 1 Glass, 1 Plastic
